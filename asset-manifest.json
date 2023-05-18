@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Your-Goals/static/css/main.636116c8.css",
+    "main.js": "/Your-Goals/static/js/main.d984e07f.js",
+    "index.html": "/Your-Goals/index.html",
+    "main.636116c8.css.map": "/Your-Goals/static/css/main.636116c8.css.map",
+    "main.d984e07f.js.map": "/Your-Goals/static/js/main.d984e07f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.636116c8.css",
+    "static/js/main.d984e07f.js"
+  ]
+}
